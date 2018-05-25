@@ -12,7 +12,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
  */
 
 public class RestAdapter {
-    static  String API_BASE_URL = "http://hamdard-uni.com/app/";
+    static  String API_BASE_URL = "USE_YOUR_BASE_URL";
     static  Retrofit retrofit = null;
 
 
